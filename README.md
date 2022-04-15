@@ -1,2 +1,2 @@
 # Dynamic-Programming
-Dynamic Programming(DP) Practice
+Repo for Dynamic Programming(DP) Practice 
